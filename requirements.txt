@@ -1,0 +1,11 @@
+InstructorEmbedding
+langchain
+librosa
+llama_cpp_python
+pypdfium2
+sentence-transformers
+PyYAML
+streamlit
+streamlit-mic-recorder
+transformers
+huggingface-hub
