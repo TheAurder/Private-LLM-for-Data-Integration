@@ -1,1 +1,4 @@
-model download
+Download Any Model From Link Below And Place it in this Folder.
+https://huggingface.co/TheBloke
+
+Then Change the model path in config.yml accordingly
