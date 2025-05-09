@@ -3,8 +3,8 @@
 A **local private LLM chatbot** built for **data integration** and **data security**.  
 It allows you to chat or upload PDFs to extract information — all without relying on the cloud or third-party services.
 
-![./screenshot.png](https://github.com/TheAurder/Development-of-Private-LLM-for-Data-Integration/blob/main/UI.png))  
-*Replace with your actual UI screenshot.*
+![./screenshot.png](https://github.com/TheAurder/Development-of-Private-LLM-for-Data-Integration/blob/main/UI.png)
+
 
 ---
 
@@ -67,6 +67,3 @@ streamlit run app.py
 
 ---
 
-## 📄 License
-
-This project is intended for private and educational use. Review licenses of third-party models for respective terms.
