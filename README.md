@@ -70,7 +70,7 @@ streamlit run app.py
 ## Contributors:
 
 <br/>
-<div align="left">
+<div align="center">
     <table style="border-collapse: collapse; border: none;">
         <tr>
             <td align="center" style="border: none; text-align: center; padding: 10px;">
