@@ -75,7 +75,7 @@ streamlit run app.py
         <tr>
             <td align="center" style="border: none; text-align: center; padding: 10px;">
                 <a href="https://github.com/sandipanrakshit34" target="_blank">
-                    <img src="Assets/sandipan_rakshit.jpg" 
+                    <img src="Assets/sandipan_rakshit.png" 
                          alt="sandipanrakshit34" 
                          width="140" height="140" 
                          style="border-radius: 50%;" />
